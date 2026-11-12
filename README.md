@@ -2,7 +2,7 @@
 
 **A wallet an AI agent can spend from, but can't overspend.** Spend caps, approved payees and expiry are enforced on-ledger by a Daml smart contract on Canton, not by the model or the backend.
 
-🏆 **4th of 30 teams, $1,000 prize** · Canton hackathon, track D1 · Team project
+🏆 **4th place, $1,000 prize** · Canton hackathon, track D1 · Team project
 
 **Built with:** Daml · Canton · Python · MCP · HTML/JS
 
