@@ -1,6 +1,10 @@
-# A spend-limited wallet for an AI agent
+# Spend-Limited Agent Wallet
 
-Canton hackathon, track D1.
+**A wallet an AI agent can spend from, but can't overspend.** Spend caps, approved payees and expiry are enforced on-ledger by a Daml smart contract on Canton, not by the model or the backend.
+
+🏆 **4th of 30 teams, $1,000 prize** · Canton hackathon, track D1 · Team project
+
+**Built with:** Daml · Canton · Python · MCP · HTML/JS
 
 The answer everywhere right now is to give the agent a hot key. If the agent is
 tricked, or simply wrong, there is nothing between it and the money. In May 2026
